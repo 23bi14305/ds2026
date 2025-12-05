@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Bùi Đức Minh
 * Student ID: 23BI14305
-* Student Group ID: Not-for-now
+* Student Group ID: 10
